@@ -1,3 +1,2 @@
-module Ucallback
-  # Your code goes here...
+class uCallback
 end
