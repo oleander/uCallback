@@ -4,6 +4,6 @@ $:.push File.expand_path("../../lib", __FILE__)
 require 'rubygems'
 require 'ucallback'
 
-Ucallback.listen do |item|
+Ucallback.listen(ARGV[1]) do |item|
   system "echo '#{item}' >> #{ARGV[0]}"
 end

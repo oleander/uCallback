@@ -2,17 +2,17 @@ require 'rubygems'
 require 'fsevent'
 
 class Ucallback < FSEvent
-  def self.listen(&block)
-    this = self.new(block)
+  def self.listen(application ='uTorrent', &block)
+    this = self.new(application, block)
     this.latency = 0.0
-    this.watch_directories self.log_dir
+    this.watch_directories this.log_dir
     this.start
   end
   
-  
-  def initialize(block)
-    @block = block
-    @last_line = get_last_line
+  def initialize(application, block)
+    @block       = block
+    @application = application
+    @last_line   = get_last_line
   end
   
   def on_change(directories)
@@ -24,20 +24,20 @@ class Ucallback < FSEvent
     @block.call($1) if last_line =~ /#{self.matcher}/i
   end
   
-  def self.log_dir
-    # "/private/var/log/"
-    "/tmp/temp_system"
+  def log_dir
+    #"/private/var/log/"
+    "/tmp/temp_system" # Only for tests
   end
   
   def log_file
-    "#{Ucallback.log_dir}/system.log"
+    "#{self.log_dir}/system.log"
   end
   
   def get_last_line
     %x{tail -n 1 #{log_file}}
   end
   
-  def matcher
-    "uTorrent: Download complete \((.*?)\) - Priority"
+  def matcher 
+    "#{@application}: Download complete \((.*?)\) - Priority"
   end
-end
+end                                  
