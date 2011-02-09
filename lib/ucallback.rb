@@ -25,8 +25,8 @@ class Ucallback < FSEvent
   end
   
   def log_dir
-    #"/private/var/log/"
-    "/tmp/temp_system" # Only for tests
+    "/private/var/log/"
+    # "/tmp/temp_system" # Only for tests
   end
   
   def log_file
