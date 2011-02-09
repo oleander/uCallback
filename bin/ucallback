@@ -1,4 +1,7 @@
 #!/usr/bin/env ruby
+# This should not be used in production, it's only for testing
+# This file is being called from the spec file
+
 $:.push File.expand_path("../../lib", __FILE__)
 
 require 'rubygems'
