@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Linus Oleander"]
   s.email       = ["linus@oleander.nu"]
   s.homepage    = ""
-  s.summary     = %q{Makes it possible to call a script when a download finishes, using uTorrent}
+  s.summary     = %q{Makes it possible to call a script when a download finishes, using uTorrent or Transmission as a bittorrent client}
   s.description = %q{The missing link between uTorrent and the console in OS X}
 
   s.rubyforge_project = "ucallback"
