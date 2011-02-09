@@ -2,7 +2,7 @@ require 'rubygems'
 require 'fsevent'
 
 class Ucallback < FSEvent
-  def self.listen(application ='uTorrent', &block)
+  def self.listen(application = 'uTorrent', &block)
     this = self.new(application, block)
     this.latency = 0.0
     this.watch_directories this.log_dir
@@ -26,7 +26,7 @@ class Ucallback < FSEvent
   
   def log_dir
     "/private/var/log/"
-    # "/tmp/temp_system" # Only for tests
+    # "/tmp/temp_system" # Only for testing
   end
   
   def log_file
