@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+$:.push File.expand_path("../../lib", __FILE__)
+
+require 'rubygems'
+require 'ucallback'
+
+Ucallback.listen do |item|
+  system "echo '#{item}' >> #{ARGV[0]}"
+end

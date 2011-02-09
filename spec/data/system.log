@@ -1,0 +1,90 @@
+Feb  8 23:49:55 linus-oleanders-macbook com.mysql.mysqld[26208]: 110208 23:49:55 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:49:55 linus-oleanders-macbook com.mysql.mysqld[26208]: 110208 23:49:55 mysqld_safe A mysqld process already exists
+Feb  8 23:49:55 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26208]): Exited with exit code: 1
+Feb  8 23:49:55 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:49:58 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: Handling SIGTERM in renderer.
+Feb  8 23:49:58 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: Wrote signal to shutdown pipe.
+Feb  8 23:49:59 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:00 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: Handling SIGTERM in renderer.
+Feb  8 23:50:00 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: Wrote signal to shutdown pipe.
+Feb  8 23:50:01 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26238]): Exited with exit code: 100
+Feb  8 23:50:01 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:04 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:05 linus-oleanders-macbook com.mysql.mysqld[26241]: 110208 23:50:05 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:50:05 linus-oleanders-macbook com.mysql.mysqld[26241]: 110208 23:50:05 mysqld_safe A mysqld process already exists
+Feb  8 23:50:05 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26241]): Exited with exit code: 1
+Feb  8 23:50:05 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:09 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:11 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26273]): Exited with exit code: 100
+Feb  8 23:50:11 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:14 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:15 linus-oleanders-macbook com.mysql.mysqld[26277]: 110208 23:50:15 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:50:15 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: objc[26276]: Class CrApplication is implemented in both /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Helper.app/Contents/MacOS/../../../Google Chrome Framework.framework/Google Chrome Framework and /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Framework.framework/Internet Plug-Ins/PDF.plugin/Contents/MacOS/PDF. One of the two will be used. Which one is undefined.
+Feb  8 23:50:15 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: objc[26276]: Class NoOp is implemented in both /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Helper.app/Contents/MacOS/../../../Google Chrome Framework.framework/Google Chrome Framework and /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Framework.framework/Internet Plug-Ins/PDF.plugin/Contents/MacOS/PDF. One of the two will be used. Which one is undefined.
+Feb  8 23:50:15 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: objc[26276]: Class TaskOperation is implemented in both /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Helper.app/Contents/MacOS/../../../Google Chrome Framework.framework/Google Chrome Framework and /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Framework.framework/Internet Plug-Ins/PDF.plugin/Contents/MacOS/PDF. One of the two will be used. Which one is undefined.
+Feb  8 23:50:15 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: objc[26276]: Class WorkerPoolObjC is implemented in both /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Helper.app/Contents/MacOS/../../../Google Chrome Framework.framework/Google Chrome Framework and /Applications/Google Chrome.app/Contents/Versions/9.0.597.84/Google Chrome Framework.framework/Internet Plug-Ins/PDF.plugin/Contents/MacOS/PDF. One of the two will be used. Which one is undefined.
+Feb  8 23:50:15 linus-oleanders-macbook com.mysql.mysqld[26277]: 110208 23:50:15 mysqld_safe A mysqld process already exists
+Feb  8 23:50:15 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26277]): Exited with exit code: 1
+Feb  8 23:50:15 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:19 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:21 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26307]): Exited with exit code: 100
+Feb  8 23:50:21 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:24 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:25 linus-oleanders-macbook com.mysql.mysqld[26310]: 110208 23:50:25 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:50:26 linus-oleanders-macbook com.mysql.mysqld[26310]: 110208 23:50:26 mysqld_safe A mysqld process already exists
+Feb  8 23:50:26 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26310]): Exited with exit code: 1
+Feb  8 23:50:26 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:26 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: Handling SIGTERM in renderer.
+Feb  8 23:50:26 linus-oleanders-macbook [0x0-0x347347].com.google.Chrome[66312]: Wrote signal to shutdown pipe.
+Feb  8 23:50:29 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:31 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26340]): Exited with exit code: 100
+Feb  8 23:50:31 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:34 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:36 linus-oleanders-macbook com.mysql.mysqld[26343]: 110208 23:50:36 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:50:36 linus-oleanders-macbook com.mysql.mysqld[26343]: 110208 23:50:36 mysqld_safe A mysqld process already exists
+Feb  8 23:50:36 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26343]): Exited with exit code: 1
+Feb  8 23:50:36 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:39 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:42 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26373]): Exited with exit code: 100
+Feb  8 23:50:42 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:44 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:46 linus-oleanders-macbook com.mysql.mysqld[26376]: 110208 23:50:46 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:50:46 linus-oleanders-macbook com.mysql.mysqld[26376]: 110208 23:50:46 mysqld_safe A mysqld process already exists
+Feb  8 23:50:46 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26376]): Exited with exit code: 1
+Feb  8 23:50:46 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:49 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:52 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26406]): Exited with exit code: 100
+Feb  8 23:50:52 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:54 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:50:56 linus-oleanders-macbook com.mysql.mysqld[26409]: 110208 23:50:56 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:50:56 linus-oleanders-macbook com.mysql.mysqld[26409]: 110208 23:50:56 mysqld_safe A mysqld process already exists
+Feb  8 23:50:56 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26409]): Exited with exit code: 1
+Feb  8 23:50:56 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:50:59 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:51:02 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26439]): Exited with exit code: 100
+Feb  8 23:51:02 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:51:04 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:51:06 linus-oleanders-macbook com.mysql.mysqld[26442]: 110208 23:51:06 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:51:06 linus-oleanders-macbook com.mysql.mysqld[26442]: 110208 23:51:06 mysqld_safe A mysqld process already exists
+Feb  8 23:51:06 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26442]): Exited with exit code: 1
+Feb  8 23:51:06 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:51:09 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:51:12 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26472]): Exited with exit code: 100
+Feb  8 23:51:12 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:51:14 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:51:16 linus-oleanders-macbook com.mysql.mysqld[26475]: 110208 23:51:16 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:51:16 linus-oleanders-macbook com.mysql.mysqld[26475]: 110208 23:51:16 mysqld_safe A mysqld process already exists
+Feb  8 23:51:16 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26475]): Exited with exit code: 1
+Feb  8 23:51:16 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:51:19 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:51:22 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26505]): Exited with exit code: 100
+Feb  8 23:51:22 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:51:24 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:51:26 linus-oleanders-macbook com.mysql.mysqld[26508]: 110208 23:51:26 mysqld_safe Logging to '/Users/linus/Developer/var/mysql/linus-oleanders-macbook.local.err'.
+Feb  8 23:51:26 linus-oleanders-macbook com.mysql.mysqld[26508]: 110208 23:51:26 mysqld_safe A mysqld process already exists
+Feb  8 23:51:26 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld[26508]): Exited with exit code: 1
+Feb  8 23:51:26 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (com.mysql.mysqld): Throttling respawn: Will start in 10 seconds
+Feb  8 23:51:29 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
+Feb  8 23:51:32 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod[26538]): Exited with exit code: 100
+Feb  8 23:51:32 linus-oleanders-macbook com.apple.launchd.peruser.501[153] (org.mongodb.mongod): Throttling respawn: Will start in 10 seconds
+Feb  8 23:51:34 linus-oleanders-macbook [0x0-0x3c03c].org.tynsoe.geektool3[540]: tail: /Users/linus/Desktop/Inwite/log/development.log: No such file or directory
